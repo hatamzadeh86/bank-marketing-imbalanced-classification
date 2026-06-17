@@ -139,7 +139,7 @@ In a marketing campaign, Recall is more important than Precision in early stages
 ### 🔹 Confusion Matrix
 The confusion matrix shows the number of correct and incorrect predictions for each class. The model correctly identified 800 subscribers (True Positives) while misclassifying 801 non-subscribers as potential customers (False Positives).
 
-![Confusion Matrix](Images/Confusion_matrix.png)
+![Confusion Matrix](Images/Confushion_matrix.png)
 
 ### 🔹 ROC Curve
 The ROC curve illustrates the model's ability to discriminate between the two classes. The AUC of ~0.91 indicates excellent separability.
